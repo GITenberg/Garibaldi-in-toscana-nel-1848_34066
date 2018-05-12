@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36730'
     url: http://www.gutenberg.org/2009/agents/36730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34066#Garibaldi-in-toscana-nel-1848
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2010-10-13'
 gutenberg_type: Text
