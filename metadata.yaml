@@ -1,0 +1,28 @@
+_repo: Garibaldi-in-toscana-nel-1848_34066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sforza, Giovanni
+    birthdate: 1846
+    deathdate: 1922
+    gutenberg_agent_id: '36730'
+    url: http://www.gutenberg.org/2009/agents/36730
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34066'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuscany (Italy) -- History'
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcc 'DG'
+title: Garibaldi in Toscana nel 1848
+url: http://www.gutenberg.org/ebooks/34066
